@@ -40,7 +40,7 @@ I am a dual-degree student focused on the intersection of **hardware-software in
 * **Tech:** Python, Django, SQL, HTML, Git
 
 #### [**Sequential LED Turn Signals (ECE 212 course) - Spring 2025**](https://github.com/lucadaloia/projects/ECE212_Sequential_LED_Turn_Signals.md)
-* **Description:** Developed a state machine–based circuit using a 555 timer, D flip-flops, and IC chips to implement sequential LED turn signals in a 1:24 scale Mustang model. Designed and optimized the system with Boolean simplification and K-Maps, integrating the final circuit into the car for a functional prototype
+* **Description:** Developed a state machine–based circuit using a 555 timer, D flip-flops, and IC chips to implement sequential LED turn signals in a 1:24 scale Mustang model. Designed and optimized the system with Boolean simplification and K-Maps, integrating the final circuit into the car for a functional prototype.
 * **Tech:** 555 timer, D flip-flops, IC chips, Boolean simplification, K-Maps
 
 #### **Extruder Performance Analysis Tool (Corning Inc.) - Summer 2024**
