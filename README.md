@@ -12,7 +12,7 @@ I am a dual-degree student focused on the intersection of **hardware-software in
 * **Languages:** Python (Django, Tkinter, SQLite), C, C++, MATLAB, LaTeX, HTML
 * **Hardware & Embedded:** Schematic and PCB Design (KiCad), ESP32, MSP430
 * **Systems:** Embedded Systems, Control Systems, Logic Design
-* **Tools:** Git/GitHub, Microsoft Excel, Analog Discovery (Waveforms), Osciloscope, Spice Simmulation, KiCad
+* **Tools:** Git/GitHub, Microsoft Excel, Analog Discovery (Waveforms), Oscilloscope, Spice Simmulation, KiCad
 
 ---
 
