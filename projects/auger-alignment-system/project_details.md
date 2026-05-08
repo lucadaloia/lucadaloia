@@ -4,7 +4,7 @@
 The CAAS project was designed to solve a critical efficiency gap in agricultural operations: the precise alignment of augers for material transfer. I served as the Hardware & UI Subsystem Lead, taking the project from initial schematic capture to a field-validated prototype tested at the Caterpillar facility.
 
 #### **My Technical Contributions**
-- **Custom PCB Architecture:**Designed a multilayer KiCad PCB that integrated ESP32 microcontrollers with high-precision IMU (Inertia Measurement Unit) unit and custom LED interfaces for real-time angular feedback.
+- **Custom PCB Architecture:** Designed a multilayer KiCad PCB that integrated ESP32 microcontrollers with high-precision IMU (Inertia Measurement Unit) unit and custom LED interfaces for real-time angular feedback.
 - **Firmware Engineering:** 
     - **Bare-Metal Architecture:** Developed a deterministic "super-loop" in C to manage system states, power regulation, and sensor polling.
     - **Sensor Data Processing:** Developed bare-metal C firmware to process IMU sensor data leaveraging the **i2cdevlib** (from [Jeff Rowberg](https://github.com/jrowberg/i2cdevlib)) and calculate precise Euler angles (Yaw, Pitch, Roll) to determine the auger's orientation relative to gravity.
@@ -28,13 +28,13 @@ The CAAS project was designed to solve a critical efficiency gap in agricultural
 
 <img src="./media/Field_test_photo.jpeg" width="500" alt="Photo of Field Test">
 
-![Video of Field Test](media/field_test_video.gif)
+<img src="./media/field_test_video.gif" width="500" alt="Video of Field Test">
 
 #### **Awards and Recognition:**
 - **Best-in-Category Award:** Recognized as the top project within the IoT category at the 2026 North Carolina State University Senior Design Day for technical execution, hardware-software integration, and real-world applicability to industrial challenges.
 - **Best Teamwork Award:** Recognized for effective cross-functional collaboration and project management throughout the design, prototyping, and testing phases.
 - **Public Exhibition:** Presented the CAAS prototype to the general public and industry professionals, demonstrating the system's ability to improve efficiency in auger operations.
 
-![Photo of Design Day Table](media/Design_day_table.HEIC)
+<img src="./media/Design_day_table.HEIC" width="500" alt="Photo of Design Day Table">
 
-![Photo of Design Day Group](media/Design_day_group.HEIC)
+<img src="./media/Design_day_group.HEIC" width="500" alt="Photo of Design Day Group">
