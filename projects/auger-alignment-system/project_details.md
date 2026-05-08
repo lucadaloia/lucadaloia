@@ -24,7 +24,7 @@ The CAAS project was designed to solve a critical efficiency gap in agricultural
 - **Mechanical Simulation & Data Accuracy:** Constructed a custom wooden frame and used an actual auger housing to simulate real-world movement and vibration within the lab. This allowed us to validate the accuracy of the IMU sensor data and the robustness of the system in a controlled environment.
 - **Field Test:** Traveled to the **Caterpillar facility** to test the prototype in a real-world setting. The system performed well, providing operators with clear, real-time visual feedback for auger alignment. Multiple iterations of the LED output and sensor sensitivity were provided during the trials to determine which visual patterns and sensititivites operators preferred. Feedback from operators indicated the system was "easy to learn" and highly effective.
 
-<img src="./media/Final_product_photo.jpg" width="500" alt="Photo of Final Product">
+<img src="./media/Final_product_photo.jpg" style="transform:rotate(270deg);" width="500" alt="Photo of Final Product">
 
 <img src="./media/Field_test_instalation.jpeg" width="500" alt="Photo of Field Test - system installation on auger">
 
