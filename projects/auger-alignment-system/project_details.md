@@ -23,13 +23,18 @@ The CAAS project was designed to solve a critical efficiency gap in agricultural
 - **Environmental UI Validation:** Performed outdoor visibility testing under direct sunlight to ensure the LED interface remained discernible for operators. We simulated the shading conditions of an auger cab to verify that the high-intensity LEDs provided clear alignment feedback in all field lighting conditions.
 - **Mechanical Simulation & Data Accuracy:** Constructed a custom wooden frame and used an actual auger housing to simulate real-world movement and vibration within the lab. This allowed us to validate the accuracy of the IMU sensor data and the robustness of the system in a controlled environment.
 - **Field Test:** Traveled to the **Caterpillar facility** to test the prototype in a real-world setting. The system performed well, providing operators with clear, real-time visual feedback for auger alignment. Multiple iterations of the LED output and sensor sensitivity were provided during the trials to determine which visual patterns and sensititivites operators preferred. Feedback from operators indicated the system was "easy to learn" and highly effective.
-![Photo of Field Test - system installation on auger](media/Field_test_instalation.jpeg)
-![Photo of Field Test](media/Field_test_photo.jpeg)
+
+<img src="./media/Field_test_instalation.jpeg" width="500" alt="Photo of Field Test - system installation on auger">
+
+<img src="./media/Field_test_photo.jpeg" width="500" alt="Photo of Field Test">
+
 ![Video of Field Test](media/field_test_video.gif)
 
 #### **Awards and Recognition:**
 - **Best-in-Category Award:** Recognized as the top project within the IoT category at the 2026 North Carolina State University Senior Design Day for technical execution, hardware-software integration, and real-world applicability to industrial challenges.
 - **Best Teamwork Award:** Recognized for effective cross-functional collaboration and project management throughout the design, prototyping, and testing phases.
 - **Public Exhibition:** Presented the CAAS prototype to the general public and industry professionals, demonstrating the system's ability to improve efficiency in auger operations.
+
 ![Photo of Design Day Table](media/Design_day_table.HEIC)
+
 ![Photo of Design Day Group](media/Design_day_group.HEIC)
