@@ -67,4 +67,4 @@ I am a dual-degree student focused on the intersection of **hardware-software in
 
 **Connect with me:** 
 * [lfdaloia@ncsu.edu](mailto:lfdaloia@ncsu.edu)
-* [LinkedIn](https://www.linkedin.com/in/lucadaloia)
+* [LinkedIn](https://www.linkedin.com/in/luca-daloia)
