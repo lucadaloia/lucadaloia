@@ -33,7 +33,7 @@ The CAAS project was designed to solve a critical efficiency gap in agricultural
 <div align="center">
   <img src="media/Field_test_instalation.jpeg" width="600" alt="Field Test">
   <br>
-  <p><b>Field Validation:</b> <i>Testing the CAAS orientation accuracy on-site at the Caterpillar facility.</i></p>
+  <p><b>Field Validation:</b> <i>IMU subsystem installation on Caterpillar auger.</i></p>
 </div>
 
 <div align="center">
