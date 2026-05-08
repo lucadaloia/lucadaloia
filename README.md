@@ -10,10 +10,10 @@ I am a dual-degree student focused on the intersection of **hardware-software in
 ### Technical Skills
 
 * **Languages:** Python (Django, Tkinter, SQLite), C, C++, MATLAB, LaTeX, HTML
-* **Hardware & Embedded:** Schematic and PCB Design (KiCad), ESP32, MSP430, ADC/DAC
+* **Hardware & Embedded:** Schematic and PCB Design (KiCad), ESP32, MSP430, ADC/DAC, Autodesk Fusion 360
 * **Systems:** Embedded Systems, Control Systems, Logic Design
 * **Software:** Git/GitHub, Microsoft Excel, Spice Simmulation, KiCad, Wireshark traffic analyzer, MS Office 365
-* **Tools:** Analog Discovery (Waveforms), Oscilloscope, Bench Power Supply, Drill Press, Dremel,
+* **Tools:** Analog Discovery (Waveforms), Oscilloscope, Bench Power Supply, Drill Press, Dremel
 * **Communication Protocols:** UART, IP, TCP
 * **IDEs:** VS Code, Google Antigravity, Code Composer Studio, Arduino IDE
 * **AI:** ChatGPT, Copilot, Gemini, Claude
