@@ -48,8 +48,14 @@ The CAAS project was designed to solve a critical efficiency gap in agricultural
 - **Public Exhibition:** Presented the CAAS prototype to the general public and industry professionals, demonstrating the system's ability to improve efficiency in auger operations.
 
 <div align="center">
+  <img src="media/Design_day_photo.jpg" width="600" alt="Design Day Photo">
+  <br>
+  <p><b>Senior Design Day:</b> <i>Me with the CAAS prototype at the NCSU public exhibition.</i></p>
+</div>
+
+<div align="center">
   <img src="media/Design_day_table.jpg" width="600" alt="Design Day Table">
   <br>
-  <p><b>Senior Design Day:</b> <i>Presenting the CAAS prototype at the NCSU public exhibition.</i></p>
+  <p><b>Senior Design Day:</b> <i>Table display of the CAAS prototype at the NCSU public exhibition.</i></p>
 </div>
 
