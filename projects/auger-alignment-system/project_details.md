@@ -26,7 +26,7 @@ The CAAS project was designed to solve a critical efficiency gap in agricultural
 
 <img src="./media/Final_product_photo.jpg" style="transform:rotate(270deg);" width="500" alt="Photo of Final Product">
 
-<img src="./media/Field_test_instalation.jpeg" style="transform:rotate(90deg);" width="500" alt="Photo of Field Test - system installation on auger">
+<img src="./media/Field_test_instalation.jpeg" width="500" alt="Photo of Field Test - system installation on auger">
 
 <img src="./media/field_test_video.gif" width="500" alt="Video of Field Test">
 
