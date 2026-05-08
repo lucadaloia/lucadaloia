@@ -35,6 +35,6 @@ The CAAS project was designed to solve a critical efficiency gap in agricultural
 - **Best Teamwork Award:** Recognized for effective cross-functional collaboration and project management throughout the design, prototyping, and testing phases.
 - **Public Exhibition:** Presented the CAAS prototype to the general public and industry professionals, demonstrating the system's ability to improve efficiency in auger operations.
 
-<img src="./media/Design_day_group.png" width="500" alt="Photo of Design Day Group">
+<img src="./media/Field_test_photo.jpeg" width="500" alt="Photo of Design Day Group">
 
 
