@@ -10,9 +10,13 @@ I am a dual-degree student focused on the intersection of **hardware-software in
 ### Technical Skills
 
 * **Languages:** Python (Django, Tkinter, SQLite), C, C++, MATLAB, LaTeX, HTML
-* **Hardware & Embedded:** Schematic and PCB Design (KiCad), ESP32, MSP430
+* **Hardware & Embedded:** Schematic and PCB Design (KiCad), ESP32, MSP430, ADC/DAC
 * **Systems:** Embedded Systems, Control Systems, Logic Design
-* **Tools:** Git/GitHub, Microsoft Excel, Analog Discovery (Waveforms), Osciloscope, Spice Simmulation, KiCad
+* **Software:** Git/GitHub, Microsoft Excel, Spice Simmulation, KiCad, Wireshark traffic analyzer, MS Office 365
+* **Tools:** Analog Discovery (Waveforms), Oscilloscope, Bench Power Supply, Drill Press, Dremel,
+* **Communication Protocols:** UART, IP, TCP
+* **IDEs:** VS Code, Google Antigravity, Code Composer Studio, Arduino IDE
+* **AI:** ChatGPT, Copilot, Gemini, Claude
 
 ---
 
@@ -35,7 +39,7 @@ I am a dual-degree student focused on the intersection of **hardware-software in
 * **Description:** Designed and implemented a TI MSP430-based autonomous robotic platform featuring integrated power regulation, H-bridge motor control, and multi-sensor fusion for precision navigation. Programmed the embedded system in C to process real-time ADC data from IR emitter-detector arrays, enabling the vehicle to detect and track physical course boundaries and transition between autonomous line-following and manual operation. Developed a full-stack IoT solution by integrating a Wi-Fi module and a web-based steering interface, while verifying all hardware subsystems using Analog Discovery and digital voltmeters to ensure signal integrity and power stability.
 * **Tech:** C, MSP430, ESP32, IoT, Serial Communication, UART, ADC/DAC, GPIO, interrupts, timers
 
-#### **Semiconductor Research Visualization Platform - Summer 2025**
+#### **Semiconductor Research Visualization Platform (Research Assistant for Prof. John Muth - NC State University) - Summer 2025**
 * **The Challenge:** Organizing and comparing vast semiconductor device data sets for academic research.
 * **The Solution:** Developed a Django-based application featuring interactive **Baliga’s Figure of Merit (BFOM) plots** to benchmark research results against global material limits.
 * **Tech:** Python, Django, SQL, HTML, Git
