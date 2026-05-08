@@ -25,6 +25,7 @@ I am a dual-degree student focused on the intersection of **hardware-software in
     - **Hardware:** Designed and routed custom multi-layer PCBs for both the IMU and UI subsystems, transitioning the project from breadboard prototypes to a ruggedized industrial solution.
     - **Firmware:** Developed the C-based UI logic, including real-time alignment calculations, interrupt-driven button inputs, and LED control for operator feedback.
 * **Tech:** KiCad, C, ESP32, ESP-NOW, PCB Design, IMU Sensors
+* **[More Details](projects/auger-alignment-system/project_details.md)**
 
 #### **Custom PCB Design (ECE 492 course) - Spring 2026**
 * **Description:** Engineered a microcontroller-based embedded system by interpreting manufacturer schematics to design a custom power circuit validated through Spice simulations. Using KiCad, I developed a multi-layer PCB integrating LDRs, LEDs, and tactile buttons while managing complex routing power planes, and mechanical constraints.
