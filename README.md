@@ -35,13 +35,17 @@ I am a dual-degree student focused on the intersection of **hardware-software in
     - **Firmware:** Developed the C-based UI logic, including real-time alignment calculations, interrupt-driven button inputs, and LED control for operator feedback.
 * **Tech:** KiCad, C, ESP32, ESP-NOW, PCB Design, IMU Sensors
 * **Skills Applied:** Prototype development and refinement, Hardware and software integration, C based firmware development, circuit validation (AD3, oscilloscope, and DMM)., PCB design and fabrication, soldering, systems-level design, documentation and collaboration.
-* **[More Details](projects/auger-alignment-system/project_details.md)**
+* **Useful Links:**
+    - [`More Details`](projects/auger-alignment-system/project_details.md)
+
 
 #### **Custom PCB Design (ECE 492 course) - Spring 2026**
 * **Description:** Engineered a microcontroller-based embedded system by interpreting manufacturer schematics to design a custom power circuit validated through Spice simulations. Using KiCad, I developed a multi-layer PCB integrating LDRs, LEDs, and tactile buttons while managing complex routing power planes, and mechanical constraints. Developed bare-metal C firmware to manage high-speed peripheral communication and real-time sensor data processing.
 * **Tech:** C, MSP430, ADC/DAC, GPIO, KiCad, PCB Design, Datasheets, LTspice, Power Circuit Design
 * **Skills Applied:** Power Circuit Design, PCB Layout and Routing (KiCad, multi-layer design), Firmware Development (C, MSP430), Component Selection (based on datasheets), Simulation (LTspice), Validation and Testing (multimeter).
-* **[More Details](projects/custom-pcb-design/project_details.md)**
+* **Useful Links:**
+    - [`More Details`](projects/custom-pcb-design/project_details.md)
+    - [`Project Repository`](https://github.com/lucadaloia/MSP430-LDR_ECE492)
 
 #### **Autonomous IoT Robotic Platform (ECE 306 course) - Fall 2025**
 * **Description:** Designed and implemented a TI MSP430-based autonomous robotic platform featuring integrated power regulation, H-bridge motor control, and multi-sensor fusion for precision navigation. Programmed the embedded system in C to process real-time ADC data from IR emitter-detector arrays, enabling the vehicle to detect and track physical course boundaries and transition between autonomous line-following and manual operation. Developed a full-stack IoT solution by integrating a Wi-Fi module and a web-based steering interface, while verifying all hardware subsystems using Analog Discovery and digital voltmeters to ensure signal integrity and power stability.
