@@ -75,6 +75,9 @@ This project involved the design and manufacturing of a microcontroller-based sy
 </div>
 
 
+ [`Project Repository`](https://github.com/lucadaloia/MSP430-LDR_ECE492)
+
+
 
 
 
