@@ -10,13 +10,18 @@ I am a dual-degree student focused on the intersection of **hardware-software in
 ### Technical Skills
 
 * **Languages:** Python (Django, Tkinter, SQLite), C, C++, MATLAB, LaTeX, HTML
-* **Hardware & Embedded:** Schematic and PCB Design (KiCad), ESP32, MSP430, ADC/DAC, Autodesk Fusion 360
+* **Coding Tools & Version Control:** VS Code, Antigravity IDE, Git, GitHub, Code Composer Studio (CCS) IDE & Debugger
+* **EDA/Simulation & Modeling:** KiCad (schematic & PCB layout), MATLAB, LTspice
+* **3D Design and Printing:** Autodesk Fusion 360
+* **Hardware & Embedded:** Schematic and PCB Design (KiCad), ESP32, MSP430, ADC/DAC, HDL (Verilog)
 * **Systems:** Embedded Systems, Control Systems, Logic Design
 * **Software:** Git/GitHub, Microsoft Excel, Spice Simmulation, KiCad, Wireshark traffic analyzer, MS Office 365
-* **Tools:** Analog Discovery (Waveforms), Oscilloscope, Bench Power Supply, Drill Press, Dremel
+* **Test, Measurement & Workshop Tools:**Analog Discovery3/WaveForms (logic analyzer, scope, generators), Oscilloscope, Digital multimeter (DMM), Bench power supply, Wireshark, Dremel, Drill press
 * **Communication Protocols:** UART, IP, TCP
 * **IDEs:** VS Code, Google Antigravity, Code Composer Studio, Arduino IDE
-* **AI:** ChatGPT, Copilot, Gemini, Claude
+* **Office:** MS Windows and Kali Linux, MS Office (Outlook, OneNote, Teams, OneDrive, Word, PowerPoint, Excel - Pivot tables, macros, functions), Google Workspace (gmail, Meet, Docs, Sheet, Slides, Drive), Dropbox, Oracle VirtualBox
+* **AI:** Effective and efficient use of Assistants (ChatGPT,Gemini,Copilot, Claude) while careful with sensitive information
+* **Soft Skills:** Strong analytical and problem-solving, clear verbal and written communication, collaborative team player, leadership, responsibility, curiosity, creativity, initiative, adaptability, emotional intelligence, respect, professionalism
 
 ---
 
@@ -29,6 +34,8 @@ I am a dual-degree student focused on the intersection of **hardware-software in
     - **Hardware:** Designed and routed custom multi-layer PCBs for both the IMU and UI subsystems, transitioning the project from breadboard prototypes to a ruggedized industrial solution.
     - **Firmware:** Developed the C-based UI logic, including real-time alignment calculations, interrupt-driven button inputs, and LED control for operator feedback.
 * **Tech:** KiCad, C, ESP32, ESP-NOW, PCB Design, IMU Sensors
+* **Skills Applied:** Prototype development and refinement, Hardware and software integration, C based firmware development, circuit validation (AD3, oscilloscope, and DMM)., PCB design and fabrication, soldering, systems-level design, documentation and collaboration.
+
 * **[More Details](projects/auger-alignment-system/project_details.md)**
 
 #### **Custom PCB Design (ECE 492 course) - Spring 2026**
@@ -37,7 +44,7 @@ I am a dual-degree student focused on the intersection of **hardware-software in
 
 #### **Autonomous IoT Robotic Platform (ECE 306 course) - Fall 2025**
 * **Description:** Designed and implemented a TI MSP430-based autonomous robotic platform featuring integrated power regulation, H-bridge motor control, and multi-sensor fusion for precision navigation. Programmed the embedded system in C to process real-time ADC data from IR emitter-detector arrays, enabling the vehicle to detect and track physical course boundaries and transition between autonomous line-following and manual operation. Developed a full-stack IoT solution by integrating a Wi-Fi module and a web-based steering interface, while verifying all hardware subsystems using Analog Discovery and digital voltmeters to ensure signal integrity and power stability.
-* **Tech:** C, MSP430, ESP32, IoT, Serial Communication, UART, ADC/DAC, GPIO, interrupts, timers
+* **Tech:** C, MSP430FR2355, ESP32, IoT, Serial Communication, UART, ADC/DAC, GPIO, interrupts, timers
 
 #### **Semiconductor Research Visualization Platform (Research Assistant for Prof. John Muth - NC State University) - Summer 2025**
 * **The Challenge:** Organizing and comparing vast semiconductor device data sets for academic research.
