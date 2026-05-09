@@ -69,6 +69,12 @@ This project involved the design and manufacturing of a microcontroller-based sy
   <p><i><b>Populated PCB</b></i></p>
 </div>
 
+<div align="center">
+  <img src="media/PCB_functioning.gif" width="500">
+  <p><i><b>Video of Functioning System</b></i></p>
+</div>
+
+
 
 
 

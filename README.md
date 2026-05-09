@@ -35,7 +35,6 @@ I am a dual-degree student focused on the intersection of **hardware-software in
     - **Firmware:** Developed the C-based UI logic, including real-time alignment calculations, interrupt-driven button inputs, and LED control for operator feedback.
 * **Tech:** KiCad, C, ESP32, ESP-NOW, PCB Design, IMU Sensors
 * **Skills Applied:** Prototype development and refinement, Hardware and software integration, C based firmware development, circuit validation (AD3, oscilloscope, and DMM)., PCB design and fabrication, soldering, systems-level design, documentation and collaboration.
-
 * **[More Details](projects/auger-alignment-system/project_details.md)**
 
 #### **Custom PCB Design (ECE 492 course) - Spring 2026**
