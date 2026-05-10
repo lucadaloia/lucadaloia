@@ -24,7 +24,6 @@ This robotic platform operates through a multi-layered control stack, balancing 
 
 ### **Cross-Platform IoT Controller**
 I developed a custom desktop application to serve as the "Ground Control" for the robot, bridging the gap between a PC and the bare-metal hardware.
-
 * **Python (Tkinter) GUI:** The interface allows for real-time interaction with the car, featuring custom buttons for timed movements (500ms to 2000ms), LCD toggling, and a raw command console.
 * **TCP/IP Networking:** To enable wireless control, I implemented TCP/IP socket communication in Python. I utilized AI-assisted prototyping to structure the network stack, allowing the application to send standardized command strings (e.g., ^####CTTTT) to the robot's IP address.
 * **Protocol Parsing:** I designed a dedicated parsing logic on the MSP430 to decode these specific strings, ensuring that even in a noisy wireless environment, only valid, formatted commands are executed by the motor drivers.
@@ -34,4 +33,26 @@ I developed a custom desktop application to serve as the "Ground Control" for th
   <p><i><b>Python (Tkinter) GUI:</b> TCP/IP Terminal Interface</i></p>
 </div>
 
+### **Hardware Implementation & Validation**
+While the project utilized provided PCB designs, I was responsible for the transition from a bare board to a fully functional, validated system.
+* **Precision Assembly & Soldering:** I soldered a diverse range of components including pin headers, tactile switches, and the LCD display. My work involved both through-hole soldering for structural components and SMD (Surface Mount Device) soldering for high-density passives and ICs.
+* **Signal Integrity Testing:** I used an Analog Discovery 3 as both a Logic Analyzer and an Oscilloscope to verify the hardware. This included "sniffing" the UART bus to debug the communication between the MSP430 and ESP32 and checking PWM duty cycles to calibrate motor speeds.
+* **Comprehensive Documentation:** For each stage of the build, I authored a technical writeup. These reports detail the code logic, flowcharts of the ISR routines, and a log of hardware-in-the-loop testing results to ensure the system met all performance specifications.
 
+
+<div align="center">
+  <img src="media/ece-306_LCD-power-board.jpeg" width="350">
+  <img src="media/ece-306_FET-board.jpeg" width="350">
+  <p><i><b>LCD/Power Board (Left) and FET Board (Right)</b></i></p>
+</div>
+
+<div align="center">
+  <img src="media/ece-306_iot-board.jpeg" width="350">
+  <img src="media/ece-306_msp430fr2355jpeg" width="350">
+  <p><i><b>IoT Board (Left) and MSP430 FRAM Board (Right)</b></i></p>
+</div>
+
+<div align="center">
+  <img src="media/ece-306_stacked-boards.png" width="500">
+  <p><i><b>Stacked/Assembled Boards</b></i></p>
+</div>
