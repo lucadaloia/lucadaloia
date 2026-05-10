@@ -47,12 +47,12 @@ While the project utilized provided PCB designs, I was responsible for the trans
 </div>
 
 <div align="center">
-  <img src="media/ece-306_iot-board.jpeg" width="350">
-  <img src="media/ece-306_msp430fr2355jpeg" width="350">
+  <img src="media/ece-306_iot_board.jpeg" width="350">
+  <img src="media/ece-306_msp430fr2355.jpeg" width="350">
   <p><i><b>IoT Board (Left) and MSP430 FRAM Board (Right)</b></i></p>
 </div>
 
 <div align="center">
-  <img src="media/ece-306_stacked-boards.png" width="500">
+  <img src="media/ece-306_stacked-boards.jpeg" width="500">
   <p><i><b>Stacked/Assembled Boards</b></i></p>
 </div>
