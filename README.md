@@ -48,8 +48,11 @@ I am a dual-degree student focused on the intersection of **hardware-software in
     - [`Project Repository`](https://github.com/lucadaloia/MSP430-LDR_ECE492)
 
 #### **Autonomous IoT Robotic Platform (ECE 306 course) - Fall 2025**
-* **Description:** Designed and implemented a TI MSP430-based autonomous robotic platform featuring integrated power regulation, H-bridge motor control, and multi-sensor fusion for precision navigation. Programmed the embedded system in C to process real-time ADC data from IR emitter-detector arrays, enabling the vehicle to detect and track physical course boundaries and transition between autonomous line-following and manual operation. Developed a full-stack IoT solution by integrating a Wi-Fi module and a web-based steering interface, while verifying all hardware subsystems using Analog Discovery and digital voltmeters to ensure signal integrity and power stability.
+* **Description:** Designed and implemented a bare-metal TI MSP430-based autonomous robotic car with integrated power regulation, H-bridge motor control, and multi-sensor fusion, and PID controller for precision navigation. Programmed the embedded system in C to process real-time ADC data from IR emitter-detector arrays, enabling the vehicle to detect and track physical course boundaries and transition between autonomous line-following and manual operation. Developed a full-stack IoT solution by integrating a Wi-Fi module and a web-based steering interface, while verifying all hardware subsystems using Analog Discovery and digital voltmeters to ensure signal integrity and power stability.
 * **Tech:** C, MSP430FR2355, ESP32, IoT, Serial Communication, UART, ADC/DAC, GPIO, interrupts, timers
+* **Useful Links:**
+    - [`More Details`](projects/ece306-autonomous-iot-car/project_details.md)
+    - [`Project Repository`](https://github.com/lucadaloia/MSP430-IoT_Car_ECE306)
 
 #### **Semiconductor Research Visualization Platform (Research Assistant for Prof. John Muth - NC State University) - Summer 2025**
 * **The Challenge:** Organizing and comparing vast semiconductor device data sets for academic research.
