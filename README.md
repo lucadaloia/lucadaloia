@@ -20,7 +20,7 @@ I am a dual-degree student focused on the intersection of **hardware-software in
 * **Communication Protocols:** UART, IP, TCP
 * **IDEs:** VS Code, Google Antigravity, Code Composer Studio, Arduino IDE
 * **Office:** MS Windows and Kali Linux, MS Office (Outlook, OneNote, Teams, OneDrive, Word, PowerPoint, Excel - Pivot tables, macros, functions), Google Workspace (gmail, Meet, Docs, Sheet, Slides, Drive), Dropbox, Oracle VirtualBox
-* **AI:** Effective and efficient use of Assistants (ChatGPT,Gemini,Copilot, Claude) while careful with sensitive information
+* **AI:** Effective and efficient use of Assistants (ChatGPT, Gemini, Copilot, Claude) while being careful with sensitive information
 * **Soft Skills:** Strong analytical and problem-solving, clear verbal and written communication, collaborative team player, leadership, responsibility, curiosity, creativity, initiative, adaptability, emotional intelligence, respect, professionalism
 
 ---
