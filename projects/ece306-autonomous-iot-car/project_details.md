@@ -30,7 +30,7 @@ I developed a custom desktop application to serve as the "Ground Control" for th
 * **Protocol Parsing:** I designed a dedicated parsing logic on the MSP430 to decode these specific strings, ensuring that even in a noisy wireless environment, only valid, formatted commands are executed by the motor drivers.
 
 <div align="center">
-  <img src="media/ece-306_python-tcp-terminal-interface.png" width="500">
+  <img src="media/ece-306_python-tcp-terminal.png" width="500">
   <p><i><b>Python (Tkinter) GUI:</b> TCP/IP Terminal Interface</i></p>
 </div>
 
