@@ -56,3 +56,15 @@ While the project utilized provided PCB designs, I was responsible for the trans
   <img src="media/ece-306_stacked-boards.jpeg" width="500">
   <p><i><b>Stacked/Assembled Boards</b></i></p>
 </div>
+
+### **System Demonstration**
+
+<div align="center">
+  <img src="media/ece-306_iot_video.gif" width="500">
+  <p><i><b>System Demonstration:</b> Manual IoT Remote Control</i></p>
+</div>
+
+<div align="center">
+  <img src="media/ece-306_blackline.gif" width="500">
+  <p><i><b>System Demonstration:</b> Autonomous Line-Following</i></p>
+</div>
