@@ -68,3 +68,7 @@ While the project utilized provided PCB designs, I was responsible for the trans
   <img src="media/ece-306_blackline.gif" width="500">
   <p><i><b>System Demonstration:</b> Autonomous Line-Following</i></p>
 </div>
+
+
+
+ [`Project Repository`](https://github.com/lucadaloia/MSP430_IoT_Car_ECE306)
