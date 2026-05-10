@@ -57,6 +57,11 @@ While the project utilized provided PCB designs, I was responsible for the trans
   <p><i><b>Stacked/Assembled Boards</b></i></p>
 </div>
 
+<div align="center">
+  <img src="media/ece-306_iot-car-side.jpeg" width="500">
+  <p><i><b>Side View of Assembled Boards on Chassis</b></i></p>
+</div>
+
 ### **System Demonstration**
 
 <div align="center">
