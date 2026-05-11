@@ -1,6 +1,6 @@
 # Luca Daloia
 
-[View my Resume (PDF)](./Resume_Luca_Daloia_2026.pdf)
+[`View my Resume (PDF)`](./Resume_Luca_Daloia_2026.pdf)
 
 ### Electrical & Computer Engineering | NC State University
 I am a dual-degree student focused on **hardware-software integration**. My experience ranges from designing custom multi-layer PCBs and C-based firmware to architecting Python and Django platforms for data analysis, visualization, and automation.
