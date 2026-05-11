@@ -15,7 +15,7 @@ I am a dual-degree student focused on **hardware-software integration**. My expe
 * **3D Design and Printing:** Autodesk Fusion 360
 * **Hardware & Embedded:** Schematic and PCB Design (KiCad), ESP32, MSP430, ADC/DAC, HDL (Verilog)
 * **Systems:** Embedded Systems, Control Systems, Logic Design
-* **Software:** Git/GitHub, Microsoft Excel, Spice Simulation, KiCad, Wireshark traffic analyzer, MS Office 365
+* **Software:** Git/GitHub, Spice Simulation, KiCad, Wireshark traffic analyzer
 * **Test, Measurement & Workshop Tools:** Analog Discovery3/WaveForms (logic analyzer, scope, generators), Oscilloscope, Digital multimeter (DMM), Bench power supply, Wireshark, Dremel, Drill press
 * **Communication Protocols:** UART, IP, TCP
 * **IDEs:** VS Code, Google Antigravity, Code Composer Studio, Arduino IDE
