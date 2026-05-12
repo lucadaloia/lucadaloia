@@ -22,3 +22,32 @@ This project involved the design and implementation of a hardware-based state ma
 ### **Manufacturing & Hardware Assembly**
 - **Breadboard Prototyping:** Validated the timing intervals and logic sequences on a breadboard prior to final assembly to ensure the "sweep" effect was visually smooth.
 - **IC Integration:** Carefully mapped pinouts for 74-series logic chips, ensuring stable power delivery and ground paths across the logic array.
+
+
+<div align="center">
+  <img src="media/ece212_logbook-photo.png" width="500">
+  <p><i><b>Page of Logbook:</b>State Diagrams and K-Maps</i></p>
+</div>
+
+<div align="center">
+  <img src="media/ece212_logbook-photo-diagram.png" width="500">
+  <p><i><b>Page of Logbook:</b> Circuit Diagram</i></p>
+</div>
+
+<div align="center">
+  <img src="media/ece212_breadboard.jpeg" width="500">
+  <p><i><b>Breadboard with Wires and Components</b></i></p>
+</div>
+
+<div align="center">
+  <img src="media/ece212_car-model.jpeg" width="500">
+  <p><i><b>1:24 Scale Mustang Model</b></i></p>
+</div>
+
+<div align="center">
+  <img src="media/ece212_functional-video.gif" width="500">
+  <p><i><b>Functioning System</b></i></p>
+</div>
+
+[`Project Writeup`](media/ECE%20212%20Lab%203%20Luca%20Daloia.lnk) for more details.
+
