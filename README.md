@@ -30,7 +30,7 @@ I am a dual-degree student focused on hardware-software integration. My experien
 
 ### Projects & Experience
 
-#### **Caterpillar Auger Alignment System - CAAS (Senior Design) - Fall 2025/Spring 2026**
+#### **Caterpillar Auger Alignment System - (Senior Design) - Fall 2025/Spring 2026**
 * **The Challenge:** Engineering a high-precision alignment status indicator tool for industrial hydraulic augers.
 * **The Solution:** Designed a custom multi-layer PCB integrating an **ESP32** and **IMU sensors**. Developed C-based firmware for real-time orientation feedback via ESP-NOW for wireless communication, and LEDs and buttons for user interface.
 * **Role:** Hardware & UI Subsystem Lead:
@@ -85,8 +85,8 @@ Created an MS Excel calculator tool that determines whether a security camera's 
 ### Achievements
 * **Dean's List:** 2022, 2024, 2025, 2026
 * **Honors:** Invited to the NC State Honors Program
-* **Best IoT Project Award in ECE Senior Design:** Spring 2026
-* **Best Team Work Award in ECE Senior Design:** Spring 2026
+* **Best IoT Project Award in ECE Senior Design:** Caterpillar Auger Alignment System - Spring 2026
+* **Best Team Work Award in ECE Senior Design:** Caterpillar Auger Alignment System - Spring 2026
   
 
 **Connect with me:** 
