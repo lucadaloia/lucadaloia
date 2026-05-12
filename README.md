@@ -91,7 +91,9 @@ I am a dual-degree student focused on hardware-software integration. My experien
 * **The Solution:** Engineered a Python-based automation tool with a TkInter GUI to standardize and accelerate the selection process. Developed a SQLite backend to manage cable specifications (type and diameter) and implemented logic to automatically calculate the minimum required conduit size based on user-selected cable quantities and National Electrical Code (NEC) regulations.
 * **Tech:** Python, Tkinter, SQLite, NEC Regulations, Automation, Excel
 
-#### Personal Project - 
+#### **Personal Project - Camera FOV Excel tool - Summer 2022**
+Created an MS Excel calculator tool that determines whether a security camera's field of view provides the needed pixels on target to meet the Detection, Observation, Recognition and Identification requirements defined in International Standard IEC EN62676-4. This calculator allowed design engineers to determine strategic locations for video surveillance cameras to meet requirements from security departments for transit agencies.
+
 ---
 
 ### Achievements
