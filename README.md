@@ -20,7 +20,7 @@ I am a dual-degree student focused on **hardware-software integration**. My expe
 * **Communication Protocols:** UART, IP, TCP
 * **IDEs:** VS Code, Google Antigravity, Code Composer Studio, Arduino IDE
 * **Office:** MS Windows and Kali Linux, MS Office (Outlook, OneNote, Teams, OneDrive, Word, PowerPoint, Excel - Pivot tables, macros, functions), Google Workspace (gmail, Meet, Docs, Sheet, Slides, Drive), Dropbox, Oracle VirtualBox
-* **AI:** Effective and efficient use of Assistants (ChatGPT, Gemini, Copilot, Claude) while being careful with sensitive information
+* **AI:** Thoughtful use of AI assistants and coding tools (e.g., Claude, Gemini, ChatGPT) in my engineering workflow—including good judgment about when outputs need verification and awareness of confidentiality practices.
 * **Soft Skills:** Strong analytical and problem-solving, clear verbal and written communication, collaborative team player, leadership, responsibility, curiosity, creativity, initiative, adaptability, emotional intelligence, respect, professionalism
 
 ---
