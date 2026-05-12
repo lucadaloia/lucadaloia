@@ -91,10 +91,11 @@ I am a dual-degree student focused on hardware-software integration. My experien
 * **The Solution:** Engineered a Python-based automation tool with a TkInter GUI to standardize and accelerate the selection process. Developed a SQLite backend to manage cable specifications (type and diameter) and implemented logic to automatically calculate the minimum required conduit size based on user-selected cable quantities and National Electrical Code (NEC) regulations.
 * **Tech:** Python, Tkinter, SQLite, NEC Regulations, Automation, Excel
 
+#### Personal Project - 
 ---
 
 ### Achievements
-* **Dean's List:** 2022, 2024, 2025
+* **Dean's List:** 2022, 2024, 2025, 2026
 * **Honors:** Invited to the NC State Honors Program
 * **Best IoT Project Award in ECE Senior Design:** Spring 2026
 * **Best Team Work Award in ECE Senior Design:** Spring 2026
