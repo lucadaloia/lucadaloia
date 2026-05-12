@@ -79,7 +79,10 @@ I am a dual-degree student focused on hardware-software integration. My experien
 * **Tech:** Python, Tkinter, SQLite, NEC Regulations, Automation, Excel
 
 #### **Personal Project - Camera Fiel of View Excel tool - Summer 2022**
-Created an MS Excel calculator tool that determines whether a security camera's field of view provides the needed pixels on target to meet the Detection, Observation, Recognition and Identification requirements defined in International Standard IEC EN62676-4. This calculator allowed design engineers to determine strategic locations for video surveillance cameras to meet requirements from security departments for transit agencies.
+* **The Challenge:** Determining if security camera placements meet rigorous international standards for image quality was a manual, error-prone process that often led to sub-optimal surveillance coverage in high-stakes transit environments.
+* **The Solution:** Created an MS Excel-based calculator that determines whether a camera's field of view (FOV) provides the necessary pixels on target to satisfy detection, observation, recognition, and identification requirements defined in the IEC EN62676-4 international standard.
+* **Tech:** Microsoft Excel, IEC EN62676-4 Standards, Geometric Optics
+* **Skills Applied:** Geometric and optical calculations, technical standard interpretation, feedback management, and tool development
 
 ---
 

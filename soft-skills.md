@@ -5,7 +5,7 @@
 * **Teamwork & Collaboration:** Believe good teamwork is essential and that everybody has something to contribute and also to learn, regardless of individual expertise. Collaborate effectively with teammates to achieve common goals.
 * **Autonomy & Research:** Work very well in teams yet maintain the ability to work independently when required, including performing independent research, development, and making critical design decisions.
 * **Cross-Functional Collaboration:** Work and collaborate effectively with colleagues, other organizations, and individuals at all levels to achieve shared objectives.
-* **Discipline & Ownership:** Very disciplined with a strong sense of responsibility. Take full ownership of projects from inception to completion, often acting as the central coordinator who keeps progress on track.
+* **Discipline & Ownership:** Hard-worker, very disciplined with a strong sense of responsibility. Take full ownership of projects from inception to completion, often acting as the central coordinator who keeps progress on track.
 * **Problem Solving:** Highly focused on solving problems; approach challenges from multiple angles and think "outside the box" to find creative solutions.
 * **Analytical Skills:** Strong analytical skills used to evaluate complex technical requirements and data.
 * **Learning Agility:** Capable of learning new topics and technologies quickly; adapt well to changing conditions and evolving project requirements.
