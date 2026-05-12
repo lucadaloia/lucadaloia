@@ -49,5 +49,5 @@ This project involved the design and implementation of a hardware-based state ma
   <p><i><b>Functioning System</b></i></p>
 </div>
 
-[`Project Writeup`](media/ECE%20212%20Lab%203%20Luca%20Daloia.lnk) for more details.
+[`Project Writeup`](media/ECE 212 Project Luca Daloia.pdf) for more details
 
