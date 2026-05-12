@@ -13,9 +13,9 @@ I am a dual-degree student focused on **hardware-software integration**. My expe
 * **Coding Tools & Version Control:** VS Code, Antigravity IDE, Git, GitHub, Code Composer Studio (CCS) IDE & Debugger
 * **EDA/Simulation & Modeling:** KiCad and Altium Designer(schematic & PCB layout), MATLAB, LTspice
 * **3D Design and Printing:** Autodesk Fusion 360
-* **Hardware & Embedded:** Schematic and PCB Design (KiCad), ESP32, MSP430, ADC/DAC, HDL (Verilog)
+* **Hardware & Embedded:** Schematic and PCB Design (KiCad and Altium Designer), ESP32, MSP430, ADC/DAC, HDL (Verilog)
 * **Systems:** Embedded Systems, Control Systems, Logic Design
-* **Software:** Git/GitHub, Spice Simulation, KiCad, Wireshark traffic analyzer
+* **Software:** Git/GitHub, Spice Simulation, KiCad, Altium Designer, Wireshark traffic analyzer
 * **Test, Measurement & Workshop Tools:** Analog Discovery3/WaveForms (logic analyzer, scope, generators), Oscilloscope, Digital multimeter (DMM), Bench power supply, Wireshark, Dremel, Drill press
 * **Communication Protocols:** UART, IP, TCP
 * **IDEs:** VS Code, Google Antigravity, Code Composer Studio, Arduino IDE
@@ -49,7 +49,7 @@ I am a dual-degree student focused on **hardware-software integration**. My expe
 * **Role:** Hardware & UI Subsystem Lead:
     - **Hardware:** Designed and routed custom multi-layer PCBs for both the IMU and UI subsystems, transitioning the project from breadboard prototypes to a ruggedized industrial solution.
     - **Firmware:** Developed the C-based UI logic, including real-time alignment calculations, interrupt-driven button inputs, and LED control for operator feedback.
-* **Tech:** KiCad, C, ESP32, ESP-NOW, PCB Design, IMU Sensors
+* **Tech:** KiCad, Altium Designer, C, ESP32, ESP-NOW, PCB Design, IMU Sensors
 * **Skills Applied:** Prototype development and refinement, Hardware and software integration, C based firmware development, circuit validation (AD3, oscilloscope, and DMM)., PCB design and fabrication, soldering, systems-level design, documentation and collaboration.
 * **More Details:**
     - [`Project Page`](projects/auger-alignment-system/project_details.md)
@@ -93,8 +93,11 @@ I am a dual-degree student focused on **hardware-software integration**. My expe
 ---
 
 ### Achievements
-* **Dean's List:** 2022, 2023, 2024
+* **Dean's List:** 2022, 2024, 2025
 * **Honors:** Invited to the NC State Honors Program
+* **Best IoT Project Award in ECE Senior Design:** Spring 2026
+* **Best Team Work Award in ECE Senior Design:** Spring 2026
+  
 
 **Connect with me:** 
 * [lfdaloia@ncsu.edu](mailto:lfdaloia@ncsu.edu)
