@@ -25,7 +25,7 @@ I am a dual-degree student focused on hardware-software integration. My experien
 
 ---
 ### **Soft Skills**
-* **[more details](soft-skills.md)**
+* **[`More details`](soft-skills.md)**
 
 ---
 
