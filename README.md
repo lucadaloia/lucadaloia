@@ -24,8 +24,8 @@ I am a dual-degree student focused on hardware-software integration. My experien
 * **AI:** Thoughtful use of AI assistants and coding tools (e.g., Claude, Gemini, ChatGPT) in my engineering workflow—including good judgment about when outputs need verification and awareness of confidentiality practices.
 
 ---
-
-### **[Soft Skills](soft-skills.md)**
+### **Soft Skills**
+* **[more details](soft-skills.md)**
 
 ---
 
