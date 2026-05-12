@@ -23,7 +23,7 @@ I am a dual-degree student focused on hardware-software integration. My experien
 * **Software & OS:** MS Windows and Kali Linux, MS Office (Outlook, OneNote, Teams, OneDrive, Word, PowerPoint, Excel - Pivot tables, macros, functions), Google Workspace (gmail, Meet, Docs, Sheet, Slides, Drive), Dropbox, Oracle VirtualBox
 * **AI:** Thoughtful use of AI assistants and coding tools (e.g., Claude, Gemini, ChatGPT) in my engineering workflow—including good judgment about when outputs need verification and awareness of confidentiality practices.
 
-[`Soft Skills`](soft-skills.md)
+[Soft Skills](soft-skills.md)
 
 
 ---
@@ -90,5 +90,5 @@ Created an MS Excel calculator tool that determines whether a security camera's 
   
 
 **Connect with me:** 
-* [lfdaloia@ncsu.edu](mailto:lfdaloia@ncsu.edu)
-* [LinkedIn](https://www.linkedin.com/in/luca-daloia)
+* [`lfdaloia@ncsu.edu`](mailto:lfdaloia@ncsu.edu)
+* [`LinkedIn`](https://www.linkedin.com/in/luca-daloia)
