@@ -65,7 +65,10 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 
 #### **Sequential LED Turn Signals (ECE 212) - Spring 2025**
 * **Description:** Developed a state machine–based circuit using a 555 timer, D flip-flops, and IC chips to implement sequential LED turn signals in a 1:24 scale Mustang model. Designed and optimized the system with Boolean simplification and K-Maps, integrating the final circuit into the car for a functional prototype.
-* **Tech:** 555 timer, D flip-flops, IC chips, Boolean simplification, K-Maps
+* **Tech:** 555 timer, D flip-flops, XOR Gates, 4:1 Multiplexers, Boolean simplification, K-Maps
+* **Skills Applied:** Digital logic design, circuit timing, state-to-output mapping, breadboard prototyping
+* **More Details:**
+    - [`Project Page`](projects/ece212-sequential-turn-signals/project_details.md)
 
 #### **Internship - Extruder Performance Analysis Tool (Corning Inc.) - Summer 2024**
 * **The Challenge:** Analyze extruder performance data from multiple Corning jacketing extruders across multiple cable plants to identify underperforming extruders and find possible causes.
