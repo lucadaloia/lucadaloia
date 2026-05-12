@@ -56,7 +56,7 @@ I am a dual-degree student focused on **hardware-software integration**. My expe
     - [`Project Page`](projects/auger-alignment-system/project_details.md)
 
 
-#### **Custom PCB Design (ECE 492 course) - Spring 2026**
+#### **Custom PCB Design (ECE 492) - Spring 2026**
 * **Description:** Engineered a microcontroller-based embedded system by interpreting manufacturer schematics to design a custom power circuit validated through Spice simulations. Using KiCad, I developed a multi-layer PCB integrating LDRs, LEDs, and tactile buttons while managing complex routing power planes, and mechanical constraints. Developed bare-metal C firmware to manage high-speed peripheral communication and real-time sensor data processing.
 * **Tech:** C, MSP430, ADC/DAC, GPIO, KiCad, PCB Design, Datasheets, LTspice, Power Circuit Design
 * **Skills Applied:** Power Circuit Design, PCB Layout and Routing (KiCad, multi-layer design), Firmware Development (C, MSP430), Component Selection (based on datasheets), Simulation (LTspice), Validation and Testing (multimeter).
@@ -64,29 +64,29 @@ I am a dual-degree student focused on **hardware-software integration**. My expe
     - [`Project Page`](projects/custom-pcb-design/project_details.md)
     - [`Project Repository`](https://github.com/lucadaloia/MSP430-LDR_ECE492)
 
-#### **Autonomous IoT Robotic Platform (ECE 306 course) - Fall 2025**
+#### **Autonomous IoT Robotic Platform (ECE 306) - Fall 2025**
 * **Description:** Designed and implemented a bare-metal TI MSP430-based autonomous robotic car with integrated power regulation, H-bridge motor control, and multi-sensor fusion, and PID controller for precision navigation. Programmed the embedded system in C to process real-time ADC data from IR emitter-detector arrays, enabling the vehicle to detect and track physical course boundaries and transition between autonomous line-following and manual operation. Developed a full-stack IoT solution by integrating a Wi-Fi module and a web-based steering interface, while verifying all hardware subsystems using Analog Discovery and digital voltmeters to ensure signal integrity and power stability.
 * **Tech:** C, MSP430FR2355, ESP32, IoT, Serial Communication, UART, ADC/DAC, GPIO, interrupts, timers
 * **More Details:**
     - [`Project Page`](projects/ece306-autonomous-iot-car/project_details.md)
     - [`Project Repository`](https://github.com/lucadaloia/MSP430-IoT_Car_ECE306)
 
-#### **Semiconductor Research Visualization Platform (Research Assistant for Prof. John Muth - NC State University) - Summer 2025**
+#### **Research Assistant - Semiconductor Research Visualization Platform (for Prof. John Muth - NC State University) - Summer 2025**
 * **The Challenge:** Organizing and comparing vast semiconductor device data sets for academic research.
 * **The Solution:** Developed a Django-based application featuring interactive **Baliga’s Figure of Merit (BFOM) plots** to benchmark research results against global material limits.
 * **Tech:** Python, Django, SQL, HTML, Git
 
-#### **Sequential LED Turn Signals (ECE 212 course) - Spring 2025**
+#### **Sequential LED Turn Signals (ECE 212) - Spring 2025**
 * **Description:** Developed a state machine–based circuit using a 555 timer, D flip-flops, and IC chips to implement sequential LED turn signals in a 1:24 scale Mustang model. Designed and optimized the system with Boolean simplification and K-Maps, integrating the final circuit into the car for a functional prototype.
 * **Tech:** 555 timer, D flip-flops, IC chips, Boolean simplification, K-Maps
 
-#### **Extruder Performance Analysis Tool (Corning Inc.) - Summer 2024**
+#### **Internship - Extruder Performance Analysis Tool (Corning Inc.) - Summer 2024**
 * **The Challenge:** Analyze extruder performance data from multiple Corning jacketing extruders across multiple cable plants to identify underperforming extruders and find possible causes.
 * **The Solution:** Designed a Python-based tool to automate data extraction from the OSI PI Server and add it to a SQLite database. Developed a TkInter (pyhton) based GUI program to analyze and visualize the data, filtering the data to perform calculations and plot data for each zone of each extruder, allowing for easy comparison and identification of underperforming zones and extruders.
 * **Role:** Division Controls Engineer Intern
 * **Tech:** Python, Tkinter, SQLite, OSI PI Server, Data Extraction, Data Vizualization, Microsoft Excel, Automation, Data Analysis
 
-#### **Conduit Selection Tool - Personal Project (Daloia Consulting) - Summer 2023**
+#### **Internship - Conduit Selection Tool - Personal Project (Daloia Consulting) - Summer 2023**
 * **The Challenge:** Performing manual NEC-compliant conduit fill calculations for complex cable schedules was time-consuming and prone to human error, risking potential non-compliance and project delays.
 * **The Solution:** Engineered a Python-based automation tool with a TkInter GUI to standardize and accelerate the selection process. Developed a SQLite backend to manage cable specifications (type and diameter) and implemented logic to automatically calculate the minimum required conduit size based on user-selected cable quantities and National Electrical Code (NEC) regulations.
 * **Tech:** Python, Tkinter, SQLite, NEC Regulations, Automation, Excel
