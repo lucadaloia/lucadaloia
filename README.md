@@ -38,7 +38,7 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
     - **Hardware:** Designed and routed custom multi-layer PCBs for both the IMU and UI subsystems, transitioning the project from breadboard prototypes to a ruggedized industrial solution.
     - **Firmware:** Developed the C-based UI logic, including real-time alignment calculations, interrupt-driven button inputs, and LED control for operator feedback.
 * **Tech:** KiCad, Altium Designer, C, ESP32, ESP-NOW, PCB Design, IMU Sensors
-* **Skills Applied:** Prototype development and refinement, Hardware and software integration, C based firmware development, circuit validation (AD3, oscilloscope, and DMM)., PCB design and fabrication, soldering, systems-level design, documentation and collaboration.
+* **Skills Applied:** Prototype development, testing, validation, and refinement, hardware and software integration, C based firmware development, circuit validation (AD3, oscilloscope, and DMM), PCB design and fabrication, board bring-up, soldering, systems-level design, documentation and collaboration.
 * **More Details:**
     - [`Project Page`](projects/auger-alignment-system/project_details.md)
 
@@ -53,7 +53,7 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 
 #### **Autonomous IoT Robotic Platform (ECE 306) - Fall 2025**
 * **Description:** Designed and implemented a bare-metal TI MSP430-based autonomous robotic car with integrated power regulation, H-bridge motor control, and multi-sensor fusion, and PID controller for precision navigation. Programmed the embedded system in C to process real-time ADC data from IR emitter-detector arrays, enabling the vehicle to detect and track physical course boundaries and transition between autonomous line-following and manual operation. Developed a full-stack IoT solution by integrating a Wi-Fi module and a web-based steering interface, while verifying all hardware subsystems using Analog Discovery and digital voltmeters to ensure signal integrity and power stability.
-* **Tech:** C, MSP430FR2355, ESP32, IoT, Serial Communication, UART, ADC/DAC, GPIO, interrupts, timers
+* **Tech:** C, MSP430FR2355, ESP32, IoT, Serial Communication, UART, ADC/DAC, GPIO, interrupts, timers, PID controller,  Analog Discovery 3, Debugging using Code Composer Studio IDE
 * **More Details:**
     - [`Project Page`](projects/ece306-autonomous-iot-car/project_details.md)
     - [`Project Repository`](https://github.com/lucadaloia/MSP430-IoT_Car_ECE306)
@@ -80,6 +80,9 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 * **The Challenge:** Performing manual NEC-compliant conduit fill calculations for complex cable schedules was time-consuming and prone to human error, risking potential non-compliance and project delays.
 * **The Solution:** Engineered a Python-based automation tool with a TkInter GUI to standardize and accelerate the selection process. Developed a SQLite backend to manage cable specifications (type and diameter) and implemented logic to automatically calculate the minimum required conduit size based on user-selected cable quantities and National Electrical Code (NEC) regulations.
 * **Tech:** Python, Tkinter, SQLite, NEC Regulations, Automation, Excel
+* **More Details:**
+    - [`Project Page`](projects/conduit-selection-tool/project_details.md)
+    - [`Project Repository`](https://github.com/lucadaloia/conduit-selection-tool)
 
 #### **Personal Project - CCTV Camera Fiel of View Excel tool - Summer 2022**
 * **The Challenge:** Determining if security camera placements meet rigorous international standards for image quality was a manual, error-prone process that often led to sub-optimal surveillance coverage in high-stakes transit environments.
