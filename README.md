@@ -89,6 +89,9 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 * **The Solution:** Created an MS Excel-based calculator that determines whether a camera's field of view (FOV) provides the necessary pixels on target to satisfy detection, observation, recognition, and identification requirements defined in the IEC EN62676-4 international standard.
 * **Tech:** Microsoft Excel, IEC EN62676-4 Standards, Geometric Optics
 * **Skills Applied:** Geometric and optical calculations, technical standard interpretation, feedback management, and tool development
+* **More Details:**
+    - [`Project Page`](projects/cctv-fov/project_details.md)
+    - [`Project Repository`](https://github.com/lucadaloia/cctv-fov)
 
 ---
 
