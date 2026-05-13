@@ -1,5 +1,7 @@
 ### Conduit Selection Tool (Personal Project) - Summer 2023
 
+[`Project Repository`](https://github.com/lucadaloia/conduit-selection-tool)
+
 #### Project Overview
 This project involved the development of a desktop automation tool designed to streamline electrical engineering workflows by calculating National Electrical Code (NEC) compliant conduit fill requirements. The tool replaces manual, error-prone calculations with a Python-based engine that cross-references cable schedules against regulatory fill capacities in real-time.
 
@@ -31,3 +33,5 @@ This project involved the development of a desktop automation tool designed to s
   <img src="media/conduit-fill_db-win.png" width="500">
   <p><i><b>Database View Window:</b> Contains cables and information added to database</i></p>
 </div>
+
+[`Project Repository`](https://github.com/lucadaloia/conduit-selection-tool)
