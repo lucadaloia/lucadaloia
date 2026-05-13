@@ -23,7 +23,7 @@ This project involved the development of a desktop automation tool designed to s
 - **Workflow Acceleration:** Significantly reduced the time required to generate compliant conduit schedules for engineering bids and field installation plans.
 
 <div align="center">
-  <img src="media/conduit-fill_program-win.png" width="500">
+  <img src="media/conduit-fill_result.png" width="500">
   <p><i><b>Main Application Window:</b> Contains database management sections and result window.</i></p>
 </div>
 
