@@ -33,6 +33,9 @@ The project evolved through several iterations (v001–v008) to increase accurac
 - **Risk Mitigation:** Provided a documented audit trail for camera placement, ensuring that identification requirements for security-critical areas were mathematically guaranteed before installation.
 - **Cost Optimization:** Optimized focal length selection, preventing the over-specification of expensive high-resolution cameras where lower-cost options met the DORI requirement.
 
-
+<div align="center">
+  <img src="media/cctv-fov.png" width="500">
+  <p><i><b>Screenshot of Tool:</b> CCTV Field of View & DORI Calculator</i></p>
+</div>
 
 [`Project Repository`](https://github.com/lucadaloia/cctv-fov)
