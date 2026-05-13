@@ -1,4 +1,4 @@
-### Conduit Selection Tool (Personal Project) - Summer 2023
+### Conduit Selection Tool (Internship Project) - Summer 2023
 
 [`Project Repository`](https://github.com/lucadaloia/conduit-selection-tool)
 
