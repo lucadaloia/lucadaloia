@@ -1,6 +1,6 @@
 ## **Custom PCB Design (ECE 492 course) - Spring 2026**
 
-[`← Back to Home`](https://github.com/lucadaloia) | [Project Repository](https://github.com/lucadaloia/MSP430-LDR_ECE492)
+[`← Back to Home`](https://github.com/lucadaloia) | [`Project Repository`](https://github.com/lucadaloia/MSP430-LDR_ECE492)
 
 #### **Project Overview**
 This project involved the design and manufacturing of a microcontroller-based system focused on analog signal acquisition and real-time user interaction. The system utilizes a photoresistor (LDR) for environmental sensing and a tactile user interface, all managed by a custom-designed PCB and optimized C firmware.

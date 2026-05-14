@@ -1,6 +1,6 @@
 ## **Autonomous IoT Robotic Platform (ECE 306 course) - Fall 2025**
 
-[`← Back to Home`](https://github.com/lucadaloia) | [Project Repository](https://github.com/lucadaloia/MSP430_IoT_Car_ECE306)
+[`← Back to Home`](https://github.com/lucadaloia) | [`Project Repository`](https://github.com/lucadaloia/MSP430_IoT_Car_ECE306)
 
 #### **Project Overview**
 This project involved the system integration and firmware development of an autonomous robotic platform centered on the MSP430 (FRAM) microcontroller. I integrated an ESP32 as a wireless co-processor using AT commands over UART to enable TCP/IP remote steering alongside a PID-based autonomous mode. I performed board population and hardware-in-the-loop validation, using an Analog Discovery 3 to ensure signal integrity across the motor control and sensor subsystems.
