@@ -1,5 +1,7 @@
 ### Sequential LED Turn Signals (ECE 212) - Spring 2025
 
+[`← Back to Home`](https://github.com/lucadaloia)
+
 #### **Project Overview**
 This project involved the design and implementation of a hardware-based state machine to emulate modern sequential turn signals for a 1:24 scale Mustang model. By utilizing fundamental digital logic components and timing circuits, the system manages a specific sequence of LED activations, translating manual switch inputs into a fluid visual transition.
 

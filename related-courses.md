@@ -1,6 +1,6 @@
 ## **Related Courses**
 
-[← Back to Home](README.md)
+[`← Back to Home`](https://github.com/lucadaloia)
 
 #### **ECE 109 Introduction to Computer Systems**
 Introduction to key concepts in computer systems. Number representations, switching circuits, logic design, microprocessor design, assembly language programming, input/output, interrupts and traps.

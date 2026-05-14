@@ -1,5 +1,6 @@
 ## **Autonomous IoT Robotic Platform (ECE 306 course) - Fall 2025**
 
+[`← Back to Home`](https://github.com/lucadaloia)
 [Project Repository](https://github.com/lucadaloia/MSP430_IoT_Car_ECE306)
 
 #### **Project Overview**

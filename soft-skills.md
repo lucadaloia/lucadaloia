@@ -1,6 +1,6 @@
 ## Soft Skills
 
-[← Back to Home](README.md)
+[`← Back to Home`](https://github.com/lucadaloia)
 
 * **Emotional Intelligence:** High emotional intelligence used to navigate team dynamics and professional relationships effectively.
 * **Communication:** Firm believer that communication is the key to success; strong communicator who conveys ideas effectively in both written and verbal formats.

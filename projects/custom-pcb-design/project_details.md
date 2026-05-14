@@ -1,5 +1,6 @@
 ## **Custom PCB Design (ECE 492 course) - Spring 2026**
 
+[`← Back to Home`](https://github.com/lucadaloia)
 [Project Repository](https://github.com/lucadaloia/MSP430-LDR_ECE492)
 
 #### **Project Overview**
