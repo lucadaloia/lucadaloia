@@ -1,4 +1,4 @@
-### Sequential LED Turn Signals (ECE 212) - Spring 2025
+## Sequential LED Turn Signals (ECE 212) - Spring 2025
 
 [`← Back to Home`](https://github.com/lucadaloia)
 
