@@ -95,6 +95,32 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 
 ---
 
+### Related Courses
+
+- ECE 109 Introduction to Computer Systems
+- ECE 200 Introduction to Signals, Circuits and Systems
+- ECE 209 Computer Systems Programming
+- ECE 211 Electric Circuits
+- ECE 212 Fundamentals of Logic Design
+- ECE 301 Linear Systems 
+- ECE 302 Microelectronics
+- ECE 306 Introduction to Embedded Systems: 
+- ECE 308 Elements of Control Systems
+- ECE 309 Data Structures and Object-Oriented Programming for Electrical and Computer Engineers
+- ENG 331 Communication for Engineering and Technology
+- ECE 407 Introduction to Computer Networking
+- ECE 484/485 ECE Senior Design I/II 
+- ECE 492 Special Topics in ECE - Introduction to Robotics & Autonomous Systems 
+- ECE 492 Special Topics in ECE - Circuit Board Layout (Embedded Systems Hardware Design)
+- PY 205 Physics for Engineers and Scientists I
+- PY 206 Physics for Engineers and Scientists I Laboratory
+- PY 208 Physics for Engineers and Scientists II
+- PY 209 Physics for Engineers and Scientists II Laboratory
+
+[`Course Details`](related-courses.md)
+
+---
+
 ### Achievements
 * **Dean's List:** 2022, 2024, 2025, 2026
 * **Honors:** Invited to the NC State Honors Program
