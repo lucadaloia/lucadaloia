@@ -1,5 +1,7 @@
 ## Soft Skills
 
+[← Back to Home](README.md)
+
 * **Emotional Intelligence:** High emotional intelligence used to navigate team dynamics and professional relationships effectively.
 * **Communication:** Firm believer that communication is the key to success; strong communicator who conveys ideas effectively in both written and verbal formats.
 * **Teamwork & Collaboration:** Believe good teamwork is essential and that everybody has something to contribute and also to learn, regardless of individual expertise. Collaborate effectively with teammates to achieve common goals.

@@ -1,5 +1,7 @@
 ## **Caterpillar Auger Alignment System - CAAS (Senior Design) - Fall 2025/Spring 2026**
 
+[← Back to Home](../../README.md)
+
 #### **Project Overview**
 The CAAS project was designed to solve a critical efficiency gap in agricultural operations: the precise alignment of augers for material transfer. I served as the Hardware & UI Subsystem Lead, taking the project from initial schematic capture to a field-validated prototype tested at the Caterpillar facility.
 
