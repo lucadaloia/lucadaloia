@@ -1,7 +1,6 @@
 ### CCTV Field of View (FOV) & DORI Calculator (PersonalProject) - Summer 2022
 
-[`← Back to Home`](https://github.com/lucadaloia)
-[`Project Repository`](https://github.com/lucadaloia/cctv-fov)
+[`← Back to Home`](https://github.com/lucadaloia) | [`Project Repository`](https://github.com/lucadaloia/cctv-fov)
 
 #### **Project Overview**
 This project involved the engineering of a high-precision optical calculation tool designed to validate security camera placements against the IEC EN62676-4 international standard. The tool allows engineers to input camera specifications (sensor size, focal length, resolution) and environmental variables (distance to target, camera height) to determine if the resulting image quality meets specific operational requirements.
