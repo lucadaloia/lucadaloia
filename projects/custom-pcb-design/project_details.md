@@ -6,7 +6,7 @@
 This project involved the design and manufacturing of a microcontroller-based system focused on analog signal acquisition and real-time user interaction. The system utilizes a photoresistor (LDR) for environmental sensing and a tactile user interface, all managed by a custom-designed PCB and optimized C firmware.
 
 #### **Technical Skills Applied**
-- **Power Circuit Design:** Designed a custom power circuit based on manufacturer specifications, including selection of appropriate components.
+- **Power Circuit Design:** Designed a custom buck boost power circuit based on manufacturer specifications, including selection of appropriate components.
 - **PCB Layout and Routing:** Developed a multi-layer PCB in KiCad, managing complex routing challenges such as power planes and signal integrity.
 - **Firmware Development:** Programmed the microcontroller in bare-metal C, implementing high-speed peripheral communication and real-time data processing.
 - **Component Selection:** Selected appropriate components based on manufacturer datasheets and system requirements.
