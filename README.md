@@ -19,7 +19,7 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 * **Test, Measurement:** Analog Discovery 3 / WaveForms (logic analyzer, scope, generators), Oscilloscope, Digital Multimeter (DMM), Bench Power Supply, Wireshark Traffic Analyzer
 * **Workshop & Prototyping:** Precision Soldering (Surface Mount Devices & Through-hole), Dremel, Drill Press
 * **Communication Protocols:** UART (Universal Asynchronous Receiver/Transmitter), TCP/IP (Transmission Control Protocol/Internet Protocol), CAN (Controller Area Network)
-* **Software & OS:** MS Windows and Kali Linux, MS Office (Outlook, OneNote, Teams, OneDrive, Word, PowerPoint, Excel - Pivot tables, macros, functions), Google Workspace (gmail, Meet, Docs, Sheet, Slides, Drive), Dropbox, Oracle VirtualBox
+* **Software & OS:** MS Windows and Kali Linux, MS Office (Outlook, OneNote, Teams, OneDrive, Word, PowerPoint, Excel - Pivot tables, macros, functions), Google Workspace (Gmail, Meet, Docs, Sheet, Slides, Drive), Dropbox, Oracle VirtualBox
 * **AI:** Thoughtful use of AI assistants and coding tools (e.g., Claude, Gemini, ChatGPT) in my engineering workflow—including good judgment about when outputs need verification and awareness of confidentiality practices.
 
 ---
