@@ -10,16 +10,15 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 ### Technical Skills
 
 * **Languages:** Python (Django, Tkinter, SQLite), C, C++, MATLAB, LaTeX, HTML
-* **Coding Tools & Version Control:** VS Code, Antigravity IDE, Git, GitHub, Code Composer Studio (CCS) IDE & Debugger
+* **Coding Tools & Version Control:** VS Code, Antigravity IDE, Git, GitHub, Code Composer Studio (CCS) IDE & Debugger, Arduino IDE
 * **EDA/Simulation & Modeling:** KiCad and Altium Designer(schematic & PCB layout), MATLAB, LTspice
 * **3D Design and Printing:** Autodesk Fusion 360
-* **Hardware & Embedded:** Schematic and PCB Design (KiCad and Altium Designer), ESP32, MSP430, ADC/DAC, HDL (Verilog)
+* **Hardware & Embedded:** Schematic and PCB Design (KiCad and Altium Designer), ESP32, MSP430, ADC (Analog t Digital Converter) and DAC (Digital to Analog Converter), HDL (Verilog)
 * **Systems:** Embedded Systems, Control Systems, Logic Design
 * **Software:** Git/GitHub, Spice Simulation, KiCad, Altium Designer, Wireshark traffic analyzer
 * **Test, Measurement:** Analog Discovery 3 / WaveForms (logic analyzer, scope, generators), Oscilloscope, Digital Multimeter (DMM), Bench Power Supply, Wireshark Traffic Analyzer
-* **Workshop & Prototyping:** Precision Soldering (SMD & Through-hole), Dremel, Drill Press
+* **Workshop & Prototyping:** Precision Soldering (Surface Mount Devices & Through-hole), Dremel, Drill Press
 * **Communication Protocols:** UART (Universal Asynchronous Receiver/Transmitter), IP, TCP (Transmission Control Protocol), CAN (Controller Area Network)
-* **IDEs:** VS Code, Google Antigravity, Code Composer Studio, Arduino IDE
 * **Software & OS:** MS Windows and Kali Linux, MS Office (Outlook, OneNote, Teams, OneDrive, Word, PowerPoint, Excel - Pivot tables, macros, functions), Google Workspace (gmail, Meet, Docs, Sheet, Slides, Drive), Dropbox, Oracle VirtualBox
 * **AI:** Thoughtful use of AI assistants and coding tools (e.g., Claude, Gemini, ChatGPT) in my engineering workflow—including good judgment about when outputs need verification and awareness of confidentiality practices.
 
