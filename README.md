@@ -69,13 +69,13 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 * **More Details:**
     - [`Project Page`](projects/ece212-sequential-turn-signals/project_details.md)
 
-#### **Internship - Extruder Performance Analysis Tool (Corning Inc.) - Summer 2024**
+#### **Extruder Performance Analysis Tool (internship at Corning Inc.) - Summer 2024**
 * **The Challenge:** Analyze extruder performance data from multiple Corning jacketing extruders across multiple cable plants to identify underperforming extruders and find possible causes.
 * **The Solution:** Designed a Python-based tool to automate data extraction from the OSI PI Server and add it to a SQLite database. Developed a TkInter (pyhton) based GUI program to analyze and visualize the data, filtering the data to perform calculations and plot data for each zone of each extruder, allowing for easy comparison and identification of underperforming zones and extruders.
 * **Role:** Division Controls Engineer Intern
 * **Tech:** Python, Tkinter, SQLite, OSI PI Server, Data Extraction, Data Vizualization, Microsoft Excel, Automation, Data Analysis
 
-#### **Internship - Conduit Selection Tool - Personal Project (Daloia Consulting) - Summer 2023**
+#### **Conduit Selection Tool - Personal Project (Daloia Consulting) - Summer 2023**
 * **The Challenge:** Performing manual NEC-compliant conduit fill calculations for complex cable schedules was time-consuming and prone to human error, risking potential non-compliance and project delays.
 * **The Solution:** Engineered a Python-based automation tool with a TkInter GUI to standardize and accelerate the selection process. Developed a SQLite backend to manage cable specifications (type and diameter) and implemented logic to automatically calculate the minimum required conduit size based on user-selected cable quantities and National Electrical Code (NEC) regulations.
 * **Tech:** Python, Tkinter, SQLite, NEC Regulations, Automation, Excel
@@ -83,7 +83,7 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
     - [`Project Page`](projects/conduit-selection-tool/project_details.md)
     - [`Project Repository`](https://github.com/lucadaloia/conduit-selection-tool)
 
-#### **Personal Project - CCTV Camera Fiel of View Excel tool - Summer 2021**
+#### **CCTV Camera Fiel of View Excel tool - Personal Project (Daloia Consulting) - Summer 2023**
 * **The Challenge:** Determining if security camera placements meet rigorous international standards for image quality was a manual, error-prone process that often led to sub-optimal surveillance coverage in high-stakes transit environments.
 * **The Solution:** Created an MS Excel-based calculator that determines whether a camera's field of view (FOV) provides the necessary pixels on target to satisfy detection, observation, recognition, and identification requirements defined in the IEC EN62676-4 international standard.
 * **Tech:** Microsoft Excel, IEC EN62676-4 Standards, Geometric Optics
