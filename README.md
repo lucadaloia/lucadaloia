@@ -96,7 +96,6 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 
 ### Related Courses
 
-- "Master CAN Protocol Completely from Scratch (CAn + CAN-FD)" (Udemy)
 - ECE 109 Introduction to Computer Systems
 - ECE 200 Introduction to Signals, Circuits and Systems
 - ECE 209 Computer Systems Programming
@@ -116,6 +115,7 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 - PY 206 Physics for Engineers and Scientists I Laboratory
 - PY 208 Physics for Engineers and Scientists II
 - PY 209 Physics for Engineers and Scientists II Laboratory
+- Master CAN Protocol Completely from Scratch (CAN + CAN-FD) - Udemy
 
 [`Course Details`](related-courses.md)
 
