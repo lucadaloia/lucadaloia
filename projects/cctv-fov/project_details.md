@@ -1,4 +1,4 @@
-## CCTV Field of View (FOV) & DORI Calculator (PersonalProject) - Summer 2021
+## CCTV Field of View (FOV) & DORI Calculator (Personal Project) - Summer 2023
 
 [`← Back to Home`](https://github.com/lucadaloia) | [`Project Repository`](https://github.com/lucadaloia/cctv-fov)
 
