@@ -2,6 +2,9 @@
 
 [`← Back to Home`](https://github.com/lucadaloia)
 
+#### **"Master CAN Protocol Completely from Scratch (CAn + CAN-FD)" (Udemy)**
+The theoretical and practical parts of Controller Area Network (CAN) protocol and Automotive CAN
+
 #### **ECE 109 Introduction to Computer Systems**
 Introduction to key concepts in computer systems. Number representations, switching circuits, logic design, microprocessor design, assembly language programming, input/output, interrupts and traps.
 
