@@ -37,7 +37,7 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
     - **Hardware:** Designed and routed custom multi-layer PCBs for both the IMU and UI subsystems, transitioning the project from breadboard prototypes to a ruggedized industrial solution.
     - **Firmware:** Developed the C-based UI logic, including real-time alignment calculations, interrupt-driven button inputs, and LED control for operator feedback.
 * **Tech:** KiCad, Altium Designer, C, ESP32, ESP-NOW, PCB Design, IMU Sensors
-* **Skills Applied:** Prototype development, testing, validation, and refinement, hardware and software integration, C based firmware development, circuit validation (AD3, oscilloscope, and DMM), PCB design and fabrication, board bring-up, soldering, systems-level design, documentation and collaboration.
+* **Skills Applied:** Prototype development, testing, validation, and refinement, hardware and software integration, C based firmware development, Debugging using Antigravity IDE and Arduino IDE, circuit validation (AD3, oscilloscope, and DMM), PCB design and fabrication, board bring-up, soldering, systems-level design, documentation and collaboration.
 * **More Details:**
     - [`Project Page`](projects/auger-alignment-system/project_details.md)
 
@@ -45,7 +45,7 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 #### **Custom PCB Design (ECE 492) - Spring 2026**
 * **Description:** Engineered a microcontroller-based embedded system by interpreting manufacturer schematics to design a custom power circuit validated through Spice simulations. Using KiCad, I developed a multi-layer PCB integrating LDRs, LEDs, and tactile buttons while managing complex routing power planes, and mechanical constraints. Developed bare-metal C firmware to manage high-speed peripheral communication and real-time sensor data processing.
 * **Tech:** C, MSP430, ADC/DAC, GPIO, KiCad, PCB Design, Datasheets, LTspice, Power Circuit Design
-* **Skills Applied:** Power Circuit Design, PCB Layout and Routing (KiCad, multi-layer design), Firmware Development (C, MSP430), Component Selection (based on datasheets), Simulation (LTspice), Validation and Testing (multimeter).
+* **Skills Applied:** Power Circuit Design, PCB Layout and Routing (KiCad, multi-layer design), Firmware Development (C, MSP430), Debugging using Code Composer Studio, Component Selection (based on datasheets), Simulation (LTspice), Validation and Testing (multimeter).
 * **More Details:**
     - [`Project Page`](projects/custom-pcb-design/project_details.md)
     - [`Project Repository`](https://github.com/lucadaloia/MSP430-LDR_ECE492)

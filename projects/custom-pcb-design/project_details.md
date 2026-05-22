@@ -42,6 +42,7 @@ This project involved the design and manufacturing of a microcontroller-based sy
 - **Multi-Mode Display Logic:** Developed two distinct visual output algorithms:
     - Gradual Mode: A sequential logic that scales LED intensity/count based on proximity.
     - Binary/Flash Mode: A low-latency mode that activates the full array simultaneously upon reaching a programmed threshold.
+- **Debugging:** Continuous debugging using Code Composer Studio throughout the firmware design/development.
 
 #### **PCB Design & Physical Layout**
 - **Trace Routing:** Manually routed all connections on a 2-layer board, ensuring that "power" traces were wide enough to handle current and that "signal" traces were laid out clearly to avoid crossing wires.

@@ -11,7 +11,7 @@ This project involved the system integration and firmware development of an auto
 * **Firmware Development (Bare-Metal C):** Authored low-level C code for real-time task management, including custom message parsing functions, PWM motor control, and state-machine logic for autonomous navigation.
 * **Control Theory Implementation:** Developed and tuned a PID controller to process IR sensor error signals, achieving smooth and stable autonomous line-following.
 * **Wireless Networking & IoT:** Utilized AT Command sets to configure the ESP32 for TCP/IP socket communication, enabling remote manual control over a wireless network.
-* **Hardware Validation & Debugging:** Proficient in using the Analog Discovery 3 (Logic Analyzer and Oscilloscope) to decode UART packets and verify PWM duty cycles for system calibration.
+* **Hardware Validation & Debugging:** Proficient in using the Analog Discovery 3 (Logic Analyzer and Oscilloscope) to decode UART packets and verify PWM duty cycles for system calibration, proficient in firmware debugging using Code Composer Studio.
 * **Cross-Platform Tool Development:** I developed a Python-based Tkinter GUI to serve as a centralized remote control station for the robotic platform. The interface features dedicated controls for navigation (timing-based movement), display pad triggers, and LCD toggling.
 * **Technical Documentation:** Authored comprehensive project writeups detailing firmware architecture, hardware implementation steps, and validation procedures for cross-functional review.
 
