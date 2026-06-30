@@ -30,6 +30,16 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 
 ### Projects & Experience
 
+#### **Automotive OBD2 Heads-Up Display (HUD) - Personal Project - In Progress (2026)**
+* **The Challenge:** Safely extracting and presenting vehicular diagnostics in real-time onto a driver line-of-sight display without routing obstructive physical wiring through the cabin dashboard.
+* **The Solution:** Engineering a dual-node wireless network interface. The base node connects directly to the vehicle's OBD2 port using a **CAN Transceiver** to capture high-speed parameter IDs (PIDs) like vehicle speed and RPM. This data is transmitted asynchronously over **ESP-NOW** to a dashboard-mounted receiver node. The receiver decodes the payload to drive a high-density, 20-pin FPC ribbon TFT display (**Newhaven NHD-2.4-240320CF-BSXV-F**) for heads-up optical projection.
+* **Project Status & Execution:**
+    - **Firmware Development:**     Developed C++ firmware to manage high-speed communication with the vehicle's CAN bus, implementing functions to issue periodic diagnostic heartbeat messages and handle dynamic PID query-response routines. Programming low-level ESP-NOW protocols for asynchronous wireless packet serialization and structuring custom drivers to handle 240x320 color rendering on the TFT screen.
+    - **Prototyping & Validation:** Built benchtop proof-of-concepts utilizing breadboard, ESP32 Dev-Kits and character displays to validate packet integrity across the CAN-to-wireless boundary, while adapting firmware drivers for the 240x320 color TFT ribbon interface.
+    - **EDA Design:** Actively executing the **schematic capture and multi-layer PCB design** within **Altium Designer**.
+    - **Engineering Documentation:** Maintain a rigorous, iterative technical logbook tracking project planning, firmware/hardware troubleshooting, and physical layout choices.
+* **Tech:** Altium Designer, ESP32, CAN Bus (Controller Area Network), CAN Transceiver, ESP-NOW, TFT Displays (20-pin FPC interface / NHD-2.4-240320CF-BSXV-F), C++, Automotive Diagnostics (OBD2)
+
 #### **Caterpillar Auger Alignment System - (Senior Design) - Fall 2025/Spring 2026**
 * **The Challenge:** Engineering a high-precision alignment status indicator tool for industrial hydraulic augers.
 * **The Solution:** Designed a custom multi-layer PCB integrating an **ESP32** and **IMU sensors**. Developed C-based firmware for real-time orientation feedback via ESP-NOW for wireless communication, and LEDs and buttons for user interface.
