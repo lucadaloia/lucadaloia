@@ -39,6 +39,8 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
     - **EDA Design:** Actively executing the **schematic capture and multi-layer PCB design** within **Altium Designer**.
     - **Engineering Documentation:** Maintain a rigorous, iterative technical logbook tracking project planning, firmware/hardware troubleshooting, and physical layout choices.
 * **Tech:** Altium Designer, ESP32, CAN Bus (Controller Area Network), CAN Transceiver, ESP-NOW, TFT Displays (20-pin FPC interface / NHD-2.4-240320CF-BSXV-F), C++, Automotive Diagnostics (OBD2)
+* **More Details:**
+    - [`Project Page`](projects/esp32-hudd/project_details.md)
 
 #### **Caterpillar Auger Alignment System - (Senior Design) - Fall 2025/Spring 2026**
 * **The Challenge:** Engineering a high-precision alignment status indicator tool for industrial hydraulic augers.
