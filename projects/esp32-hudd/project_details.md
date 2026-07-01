@@ -33,3 +33,15 @@ This project involves the design and development of an automotive embedded syste
 ### **Engineering Documentation & Validation**
 - **Iterative Bench Prototyping:** Validated the initial firmware stack and network communication layer on a breadboard system using a temporary alphanumeric LCD panel to guarantee CAN-to-wireless packet integrity.
 - **Technical Logbook Maintenance:** Documented each distinct stage of the project, establishing an active registry of firmware modifications, display initialization state codes, component sourcing adjustments, and hardware troubleshooting sessions.
+
+<div align="center">
+  <img src="media/hudd-breadboard.jpg"  width="600" alt="Photo of Breadboard prototype">
+  <br>
+  <p><b>Breadboard Prototype:</b> <i>Prototype connected to OBD2 port.</i></p>
+</div>
+
+<div align="center">
+  <img src="media/hudd-lcd.jpg"  width="600" alt="Photo of LCD prototype">
+  <br>
+  <p><b>Display LCD Prototype:</b> <i>Prototype displaying speed and rpm.</i></p>
+</div>
