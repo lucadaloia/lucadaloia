@@ -41,7 +41,7 @@ This project involves the design and development of an automotive embedded syste
 </div>
 
 <div align="center">
-  <img src="media/hudd-lcd.jpg"  width="600" alt="Photo of LCD prototype">
+  <img src="media/hudd-lcd.png"  width="600" alt="Photo of LCD prototype">
   <br>
   <p><b>Display LCD Prototype:</b> <i>Prototype displaying speed and rpm.</i></p>
 </div>
