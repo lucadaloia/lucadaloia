@@ -3,9 +3,7 @@
 [`View my Resume (PDF)`](./Resume_Luca_Daloia_2026.pdf)
 
 ### Electrical & Computer Engineering | NC State University
-I am a dual-degree student focused on Embedded Systems and hardware-software integration. My experience ranges from schematic capture, designing custom multi-layer PCBs and C-based firmware to architecting Python and Django platforms for data analysis, visualization, and automation.
-
----
+I am a dual-degree Electrical and Computer Engineering student at NC State University focused on embedded systems and hardware-software integration. I plan to pursue a Master of Science in Electrical Engineering after completing my undergraduate degrees. My experience ranges from schematic capture, custom multi-layer PCB design, and C-based firmware development to building Python and Django platforms for data analysis, visualization, and automation.
 
 ### Technical Skills
 
@@ -123,6 +121,8 @@ I am a dual-degree student focused on Embedded Systems and hardware-software int
 - ECE 484/485 ECE Senior Design I/II 
 - ECE 492 Special Topics in ECE - Introduction to Robotics & Autonomous Systems 
 - ECE 492 Special Topics in ECE - Circuit Board Layout (Embedded Systems Hardware Design)
+- ECE 310 Design of Complex Digital Systems
+- ECE 464 ASIC and FPGA Design with Verilog
 - PY 205 Physics for Engineers and Scientists I
 - PY 206 Physics for Engineers and Scientists I Laboratory
 - PY 208 Physics for Engineers and Scientists II
